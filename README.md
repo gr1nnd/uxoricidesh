@@ -34,6 +34,6 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-! ąkąMineSyntąx.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/oa2yweh32odl1ra0g89f8g1vl)
+[<img src="https://now-playing-! ąkąMineSyntąx.vercel.app/api/spotify-playing" alt="akaMineSyntax's Spotify Playing" width="350" />](https://open.spotify.com/user/oa2yweh32odl1ra0g89f8g1vl)
 
  
