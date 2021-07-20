@@ -1,5 +1,5 @@
 ## Hello! I'm akaMineSyntax, I'm a Junior Developer
- 
+
  - 👋 Hi, I’m akaMineSyntax
 - 👀 I’m interested in: Learn C#
 - 🌱 I’m currently learning: discord.py
@@ -31,3 +31,9 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/oa2yweh32odl1ra0g89f8g1vl)
+
+ 
