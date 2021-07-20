@@ -1,4 +1,11 @@
 ## Hello! I'm akaMineSyntax, I'm a Junior Developer
+ 
+ - 👋 Hi, I’m akaMineSyntax
+- 👀 I’m interested in: Learn C#
+- 🌱 I’m currently learning: discord.py
+- 💞️ I’m looking to collaborate with: No one:p
+- 📫 How to reach me: discord: !  SoyD'Itzel,, ᴴᶜ ⸸#1505
+
  <div>
   <a href="https://github.com/akaMineSyntax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaMineSyntax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
