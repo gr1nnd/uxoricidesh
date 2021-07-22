@@ -4,7 +4,6 @@
 - 👀 I’m interested in: Learn C#
 - 🌱 I’m currently learning: discord.py
 - 💞️ I’m looking to collaborate with: No one:p
-- 📫 How to reach me: discord: !  SoyD'Itzel,, ᴴᶜ ⸸#1505
 
  <div>
   <a href="https://github.com/akaMineSyntax">
