@@ -1,7 +1,7 @@
 ## Hello! I'm akaMineSyntax, I'm a Junior Developer
 
  - 👋 Hi, I’m akaMineSyntax
-- 👀 I’m interested in: Learn C#
+- 👀 I’m interested in: Learn C# and F#
 - 🌱 I’m currently learning: discord.py
 - 💞️ I’m looking to collaborate with: No one:p
 
