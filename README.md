@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning: discord.py
 - 💞️ I’m looking to collaborate with: No one:p
 
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaMineSyntax) 
+
  <div>
   <a href="https://github.com/akaMineSyntax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaMineSyntax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -28,8 +30,7 @@
  </a> 
  
   ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaMineSyntax) 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
 
 
