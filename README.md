@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate with: No one:p
 
  <div>
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaMineSyntax) 
   <a href="https://github.com/akaMineSyntax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaMineSyntax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaMineSyntax&layout=compact&langs_count=7&theme=dracula"/>
@@ -28,6 +27,7 @@
 <a href="https://www.youtube.com/channel/UC1DJSJnHeNArKhBrAXRIBLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  </a> 
  
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaMineSyntax) 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
