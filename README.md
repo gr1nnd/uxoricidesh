@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: discord.py
 - 💞️ I’m looking to collaborate with: No one:p
 
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaMineSyntax) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaMineSyntax) 
 
  <div>
   <a href="https://github.com/akaMineSyntax">
