@@ -5,8 +5,20 @@
 - 🌱 I’m currently learning: discord.py
 - 💞️ I’m looking to collaborate with: No one:p
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaMineSyntax) 
+import SoftwareDeveloper from 'akahaah';
+import { Languages } from 'akahaah/skills';
 
+class Bio extends SoftwareDeveloper {
+  name     = 'akaHaah';
+  title    = 'Newbie Developer';
+  company  = '#Hker$hit';
+  location = 'Neuquen, Argentina';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Python', 'PHP', 'HTML', 'C#', 'CSS' ...Languages];
+  
+}
  <div>
   <a href="https://github.com/akaMineSyntax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaMineSyntax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
