@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning: discord.py
 - 💞️ I’m looking to collaborate with: No one:p
 
-import SoftwareDeveloper from 'akahaah';
+```import SoftwareDeveloper from 'akahaah';
 import { Languages } from 'akahaah/skills';
 
 class Bio extends SoftwareDeveloper {
@@ -18,7 +18,8 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'Python', 'PHP', 'HTML', 'C#', 'CSS' ...Languages];
   
-}
+}```
+
  <div>
   <a href="https://github.com/akaMineSyntax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaMineSyntax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
