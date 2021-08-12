@@ -19,6 +19,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROd-k53lT1qasGlUJkdTSZa-HyWTI0SylwL6iDR_8ze1K4GuWVWWVb_aW9kn7Pc3wl6z4&usqp=CAU" alt="java" width="30" height="30"/>
 </div>
 
  
