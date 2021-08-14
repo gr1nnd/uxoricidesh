@@ -1,5 +1,7 @@
 ## Hello! I'm akaMineSyntax, I'm a Junior Developer
 
+My favorite languages are Python and Batch, i dominate JavaScript, HTML and CSS
+
 ## Github Stats
 
  <div>
