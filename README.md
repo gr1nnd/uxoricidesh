@@ -33,7 +33,7 @@ I'm learning the extint J#.
 
 <div>
 
-## Languages
+## Languages 2:
 </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -50,6 +50,8 @@ I'm learning the extint J#.
   <a href="https://www.ruby-lang.org/en/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="c" width="40" height="40"/>
 </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
 </div>
 
 <div>
