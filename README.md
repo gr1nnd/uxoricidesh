@@ -29,6 +29,11 @@ I'm learning the extint J#.
 </a>
   <a href="https://www.w3schools.com/cs/index.php" target="_blank">
   <img align="center" alt="Rafa-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+
+<div>
+
+## Languages
 </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
