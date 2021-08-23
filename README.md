@@ -88,7 +88,7 @@ YouTube:
 Replit:
 </a> <a href="https://replit.com/@ItzbyMine" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png" alt="https://replit.com/@ItzbyMine" height="50" width="70" /></a></p>
 Twitch:
-</a> <a href="https://www.twitch.tv/itzbymine" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="https://www.twitch.tv/itzbymine" height="50" width="70" /></a></p>
+</a> <a href="https://www.twitch.tv/itzbymine" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Twitch_Glitch_Logo_Purple.svg/878px-Twitch_Glitch_Logo_Purple.svg.png" alt="https://www.twitch.tv/itzbymine" height="50" width="50" /></a></p>
 Spotify:
-</a> <a href="https://open.spotify.com/user/oa2yweh32odl1ra0g89f8g1vl" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="https://open.spotify.com/user/oa2yweh32odl1ra0g89f8g1vl" height="50" width="70" /></a></p>
+</a> <a href="https://open.spotify.com/user/oa2yweh32odl1ra0g89f8g1vl" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" alt="https://open.spotify.com/user/oa2yweh32odl1ra0g89f8g1vl" height="50" width="50" /></a></p>
 
