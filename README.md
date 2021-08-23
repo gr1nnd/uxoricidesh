@@ -83,5 +83,4 @@ I'm learning the extint J#.
   </a>
 
 # Contact With Me:
-</a> <a href="https://www.youtube.com/channel/UC1DJSJnHeNArKhBrAXRIBLA" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_social_red_circle_%282017%29.svg" alt="https://www.youtube.com/channel/UC1DJSJnHeNArKhBrAXRIBLA" height="50" width="70" /></a></p>
-</a> <a href="https://replit.com/@ItzbyMine" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png" alt="https://replit.com/@ItzbyMine" height="50" width="70" /></a></p>
+</a> <a href="https://www.youtube.com/channel/UC1DJSJnHeNArKhBrAXRIBLA" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_social_red_circle_%282017%29.svg" alt="https://www.youtube.com/channel/UC1DJSJnHeNArKhBrAXRIBLA" height="50" width="70" /></a></p></a> <a href="https://replit.com/@ItzbyMine" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/220px-Repl.it_logo.svg.png" alt="https://replit.com/@ItzbyMine" height="50" width="70" /></a></p>
