@@ -1,6 +1,6 @@
 ## Hello! I'm akaMineSyntax, I'm a Junior Developer
 
-My favorite languages are Python and Batch, i dominate JavaScript, HTML and CSS
+# My favorite languages are Python and Batch, i dominate JavaScript, HTML and CSS
 I Dominate the Git Bash terminal, I'm Studing Ruby, TypeScript, C#, C++ and Scala.
 I'm learning the extint J#.
 
@@ -81,5 +81,3 @@ I'm learning the extint J#.
    <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
-
-   
