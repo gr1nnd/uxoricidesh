@@ -1,8 +1,9 @@
 ## Hello! I'm akaMineSyntax, I'm a Junior Developer
 
 # My favorite languages are Python and Batch, i dominate JavaScript, HTML and CSS
-I Dominate the Git Bash terminal, I'm Studing Ruby, TypeScript, C#, C++ and Scala.
-I'm learning the extint J#.
+
+# I Dominate the Git Bash terminal, I'm Studing Ruby, TypeScript, C#, C++ and Scala.
+# I'm learning the extint J#.
 
 ## Github Stats
 
