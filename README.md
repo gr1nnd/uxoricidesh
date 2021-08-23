@@ -27,6 +27,8 @@ I'm learning the extint J#.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="c" width="30" height="30"/>
 </div>
 
+<div>
+
 ## Other Things
 
 <div style="display: inline_block"><br>
