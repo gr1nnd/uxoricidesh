@@ -1,5 +1,7 @@
 ## Hello! I'm akaMineSyntax, I'm a Junior Developer
 
+I Dominate Python, JavaScript, HTML, CSS, Batch and Git. I'm Studyng C++, C, C#, TypeScript and Ruby, I also knows MongoDB, MongoShell, Mongoose, ReactJS, Next.js, npm and Node.js
+
 ## Github Stats
 
  <div>
