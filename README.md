@@ -1,13 +1,13 @@
-## Hello! I'm akaMineSyntax, I'm a Junior Developer
+## Hello! I'm xMinee, I'm a Junior Developer
 
 I Dominate Python, JavaScript, HTML, CSS, Batch and Git. I'm Studyng C++, C, C#, TypeScript and Ruby, I also knows MongoDB, MongoShell, Mongoose, ReactJS, Next.js, npm and Node.js
 
 ## Github Stats
 
  <div>
-  <a href="https://github.com/akaMineSyntax">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akaMineSyntax&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaMineSyntax&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/xMinee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xMinee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMinee&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Languages:
