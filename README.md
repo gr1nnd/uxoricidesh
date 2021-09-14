@@ -1,6 +1,6 @@
 ## Hello! I'm xMinee, I'm a Junior Developer
 
-I Dominate Python, JavaScript, HTML, CSS, Batch and Git. I'm Studyng C++, C, C#, TypeScript and Ruby, I also knows MongoDB, MongoShell, Mongoose, ReactJS, Next.js, npm and Node.js
+I Dominate Python, JavaScript, HTML, CSS, Batch and Git. I'm Studyng C++, C, C#, TypeScript and Ruby, I also knows MongoDB, MongoShell, Mongoose, ReactJS, Next.js and Node.js
 
 ## Github Stats
 
