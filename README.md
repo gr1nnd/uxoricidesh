@@ -1,6 +1,6 @@
 ## Hello! I'm xMinee, I'm a Junior Developer
 
-root@hellsquad=>
+root@minelucilfer=>
 
 ## Github Stats
 
