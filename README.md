@@ -8,8 +8,6 @@ root@minelucilfer=>
   <a href="https://github.com/xMinee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xMinee&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMinee&layout=compact&langs_count=7&theme=dracula"/>
-   <a href="https://wakatime.com/@xMinee">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xMineel&layout=compact&theme=dark" align="center" height="195px">
 </div>
 
 ## Languages:
