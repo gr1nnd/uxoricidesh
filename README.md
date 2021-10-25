@@ -12,7 +12,7 @@ root@genocide=>
    Editors :  VS Code, Sublime Text 3, Atom
  Databases :  MongoDB, SQL
 Frameworks :  React, Next, Rust, Mongoose
-    Alias  :  genocide
+    Alias  :  genocide, uxoricide
 Languages  :  Python, JavaScript, HTML, SCSS
 ```
 
