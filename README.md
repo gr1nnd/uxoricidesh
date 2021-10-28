@@ -1,5 +1,5 @@
 ```zsh
-> MineLucilfer
+> kidlucilfer
 ```
 
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
@@ -8,7 +8,7 @@
 root@genocide=>
 ----------------
        OS  :  Windows 11, Mint Linux
-   Website :  https://itzbymine.000webhostapp.com/
+   Website :  punkparrocide.github.io
    Editors :  VS Code, Sublime Text 3, Atom
  Databases :  MongoDB, SQL
 Frameworks :  React, Next, Rust, Mongoose
