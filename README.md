@@ -7,12 +7,11 @@
 ```csharp
 root@genocide=>
 ----------------
-       OS  :  Windows 11, Mint Linux
-   Website :  punkparrocide.github.io
+       OS  :  Windows 11, Mint, Kali, Arch & Artix
    Editors :  VS Code, Sublime Text 3, Atom
  Databases :  MongoDB, SQL
-Frameworks :  React, Next, Rust, Mongoose
-    Alias  :  genocide, uxoricide
+Frameworks :  React, Next
+    Alias  :  genocide, uxoricide, uxoricidesh
 Languages  :  Python, JavaScript, HTML, SCSS
 ```
 
